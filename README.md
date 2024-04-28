@@ -1,10 +1,8 @@
 Project Name: Cricket score Board
 
 Team Members:
-1:Prashant Shah
-2:Sahil Prasad Rouniyar
-3:Pratima Chaudhary
-4:Sandhya Shah
+Prashant Shah, Sahil Prasad Rouniyar, Pratima Chaudhary
+,Sandhya Shah
 
 Project Discription
 This is the project which is made form c language. This project can store the name , runs ,balls , sixes and fours of the players. This prohect can print the score card of the palyers. 
